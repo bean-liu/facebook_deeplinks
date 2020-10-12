@@ -42,22 +42,30 @@
       <option name="project" value="LOCAL" />
       <updated>1602485970989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="再更新一次">
+      <created>1602487760786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602487760786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="升级facebook版本" />
-    <option name="LAST_COMMIT_MESSAGE" value="升级facebook版本" />
+    <MESSAGE value="再更新一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="再更新一次" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="114" key="CommitChangelistDialog2" timestamp="1602485970466">
+    <state x="1084" y="146" key="CommitChangelistDialog2" timestamp="1602487760323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602485970466" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602485483694">
+    <state x="1084" y="146" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602487760323" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602487731066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602485483694" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602487731066" />
     <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1602487493923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -74,9 +82,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602487493923" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602485972677">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602487762138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602485972677" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602487762138" />
   </component>
 </project>

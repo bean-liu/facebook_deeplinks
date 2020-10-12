@@ -35,6 +35,6 @@ android {
     dependencies {
 //        implementation 'com.facebook.android:facebook-core:[7,8)'
 //        implementation 'com.facebook.android:facebook-applinks:[7,8)'
-        implementation 'com.facebook.android:facebook-applinks:[7，8)'
+        implementation 'com.facebook.android:facebook-applinks:[7,8)'
     }
 }
